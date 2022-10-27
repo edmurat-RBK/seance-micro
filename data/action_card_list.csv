@@ -1,0 +1,46 @@
+PROTO,Nom,Type,Rareté,Effet,DMG,AMR,CRD,ACT,Deck Warrior,Deck Mage,Deck Ranger
+FALSE,Coup assomant,Physique,Common,"+1 dommage
+Reduit les dommages infligés par l'ennemi de 1.",,,,,,,
+FALSE,Coup de bouclier,Physique,Common,Vous infligez des dommages egaux a votre armure actuelle,,,,,1,,
+FALSE,Frapper,Physique,Common,+2 dommages,,,,,2,,
+FALSE,Garde,Physique,Common,+2 points d'armure,,,,,2,1,
+FALSE,Concentration martiale,Physique,Uncommon,"Jusqu'a la fin du combat , vous infligez 1 dommage en plus a chacune de vos actions",,,,,,,
+FALSE,Double coup,Physique,Uncommon,"Défaussez une carte
++2 dommages
++1 action",,,,,,,
+FALSE,Resistance,Physique,Uncommon,"Jusqu'a la fin du combat , vous gagnez 1 point d'armure a chacun de vos tours",,,,,,,
+FALSE,Stand behind me,Physique,Uncommon,Vous subissez les dommages a la place d'un autre joueur,,,,,1,,
+FALSE,Taper sans réflechir,Physique,Uncommon,"Défaussez votre main, +1 dommages par carte défaussée ainsi",,,,,,,
+FALSE,Bouclier magique,Intelligence,Common,+1 d'armure a chaque joueur,,,,,,1,
+FALSE,Conaissances,Intelligence,Common,+2 cartes,,,,,1,1,
+FALSE,Planification stratégique,Intelligence,Common,"Chaque joueur peut défausser une carte et piocher une nouvelle carte
++1 action",,,,,,1,1
+FALSE,Projectile magique,Intelligence,Common,"+1 dommage
++1 carte",,,,,,2,
+FALSE,Travail d'équipe,Intelligence,Common,+1 carte a tous les autres joueurs,,,,,,,
+FALSE,Drain de vie,Intelligence,Uncommon,"+2 dommages
+Si l'ennemi subit des dégats ce tour, vous soigne 1 point de vie",,,,,,,
+FALSE,Empoisonner,Intelligence,Uncommon,Inflige l'etat poison a l'ennemi (perd 1 point de vie par tour jusqu'a la fin du combat),,,,,,,
+FALSE,Manipulation,Intelligence,Uncommon,Inflige des dégats egaux a la force de l'ennemi,,,,,,,
+FALSE,Outsmart,Intelligence,Uncommon,Inflige des dommages egaux aux nombre de cartes que vous avez piochées ce tour ci.,,,,,,1,
+FALSE,Premier soins,Intelligence,Uncommon,Soigne 3 pv a un joueur,,,,,,,
+FALSE,Projectile enflammé,Intelligence,Uncommon,"+1 dommage
+Réduit l'armure de 1 définitivement",,,,,,,
+FALSE,Réflexion rapide,Intelligence,Uncommon,"+1 carte
++1 action",,,,,,,
+FALSE,Soins rapides,Intelligence,Common,"Soigne 1 pv a un joueur
++1 action",,,,,,,
+FALSE,Adresse,Dextérité,Uncommon,+2 actions,,,,,,,
+FALSE,Collaboration,Dextérité,Common,+1 action a tous les autres joueurs,,,,,,,1
+FALSE,Coup de main,Dextérité,Common,"+1 actions a un autre joueur
++1 action",,,,,,,1
+FALSE,Lancer de dague,Dextérité,Common,"+1 dommage
++1 action",,,,,1,,2
+FALSE,Tour de passe passe,Dextérité,Common,"+1 carte
++1 action",,,,,,1,1
+FALSE,Coup de dague sournois,Dextérité,Uncommon,"Si au moins 4 autres actions ont été jouées pendant votre tour avant cette carte, +3 dommages.",,,,,,,1
+FALSE,Esquive,Dextérité,Uncommon,Annule les dommages subits ce tour.,,,,,,,
+FALSE,Pluie de coups,Dextérité,Uncommon,Inflige des dommages egaux au nombre d'actions restantes non utilisées. Consommes toutes les actions restantes,,,,,,,
+FALSE,Tir de précision,Dextérité,Common,L'ennemi perd 1 point de vie directement (ignore l'armure),,,,,,,
+FALSE,Versatilité,Dextérité,Uncommon,"Si au moins une carte Physique et une carte Intelligence ont étées jouées ce tour de jeu, l'ennemi perd 3 points de vie (ignore l'armure)",,,,,,,
+FALSE,Endure,Physique,Common,Soigne 1pv a soi meme,,,,,,,1
